@@ -234,7 +234,7 @@
       "hitfail": ["HF", "Hitfail"],
       "critical": ["CH", "Critical Hit%"],
       "direct": ["DH", "Direct Hit%"],
-      "crit_direct": ["CDH", "Critical Direct Hit% (!!!)"],
+      "crit_direct": ["!!", "Critical Direct Hit% (!!!)"],
       "crittypes": ["D/!/!!!", "Direct/Critical/!!! Count"],
       "max": ["MaxH", "Maxhit (w/o skillname)"],
       "maxskill": ["MaxDS", "Maxhit (skillname only)"],
